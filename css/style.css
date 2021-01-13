@@ -1,0 +1,66 @@
+body{
+    margin: 0;
+}
+.button-size{
+    background-color: rgb(164, 188, 70);
+    height: 60px;
+}
+.img-size{
+    width: 40px;
+}
+.green-img{
+    width: 70%;
+    margin-bottom: 100px;
+}
+.header-height{
+    height:  600px;
+    background-color: rgb(255, 251, 240);
+}
+.section-height{
+    height: 500px;
+}
+.pic-width{
+    width: 80%;
+    margin-left: 60px;
+}
+.card-img{
+    width: 70px;
+}
+.penguin{
+    border: 0;
+    height: 30%;
+}
+.radius{
+    border-radius: 20px;
+}
+.resize{
+    height: 80%;
+    width: 60%;
+    display: block;
+    margin: auto;
+}
+.inside-border{
+    background-color: rgba(236, 232, 232, 0.431);
+    border-radius: 10px;
+    margin: 20px;
+    height: 60%;
+}
+.area{
+     text-decoration: none;
+    background-color: rgb(164, 188, 70);
+    padding: 5px 30px;
+    width: 11em;
+    border-radius: 10px;
+}
+.f-color{
+    font-weight: 700;
+    color: white;
+}
+.foot{
+    border: 0;
+    background-color: white;
+}
+.cd-border{
+    border: 0;
+    border-radius: 15px;
+}
