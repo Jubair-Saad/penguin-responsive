@@ -9,11 +9,10 @@ body{
     width: 40px;
 }
 .green-img{
-    width: 70%;
-    margin-bottom: 100px;
+    width: 60%;
 }
 .header-height{
-    height:  600px;
+    height:  680px;
     background-color: rgb(255, 251, 240);
 }
 .section-height{
@@ -63,4 +62,64 @@ body{
 .cd-border{
     border: 0;
     border-radius: 15px;
+}
+.bebas-font{
+    font-family: 'Bebas Neue', cursive;
+}
+h1{
+    font-size: 60px;
+}
+.roboto-font{
+    font-family: 'Roboto', sans-serif;
+}
+.highlight{
+    color: rgb(250, 190, 76);
+}
+.blue-color{
+    color: rgb(54, 57, 88);
+}
+.light-color{
+    color: rgb(62, 62, 62);
+}
+h2{
+    font-size: 45px; 
+}
+h4{
+    font-weight: 800;
+}
+h3{
+    font-weight: 800;
+    font-size: 35px;
+}
+.foot-height{
+    height: 300px;
+    background-color: gray;
+}
+.img-align{
+    margin-top: 15px;
+}
+.txt-align{
+    margin-top: 15px;
+    padding-left: 40px;
+}
+main{
+    max-width: 1200px;
+}
+.txt-align .head-align{
+    padding-bottom: 1px;
+}
+.para-align{
+    padding-bottom: 10px;
+}
+@media (max-width:765px){
+    .img-align{
+        margin-top: 10px;
+        padding: 5px 180px;
+    }
+    .txt-align .head-align{
+        padding: 0px 100px;
+    }
+    .para-align{
+        padding: 1px 60px 20px 60px;
+    }
 }
